@@ -1,0 +1,18 @@
+*{
+color: white
+}
+.footerWrap{
+    background-color: black; 
+    padding: 35px 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+
+.leftFooterContent{
+
+}
+
+.rightFooterContent{
+
+}
